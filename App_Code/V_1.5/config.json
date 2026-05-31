@@ -1,0 +1,8 @@
+{
+    "name": "Startup_Off_Crash Register (Py)",
+    "user": "Your_Sender_Mail@domain.com",
+    "password": "App_Password_For_Sender_Mail",
+    "smtp_host": "smtp.domain.com",
+    "smtp_port": 465
+    "mail_reciver": "your_Reciver_mail@domain.com"
+}
